@@ -1,54 +1,93 @@
 <?php get_header(); ?>
 
-	<div class="row">
-		<div class="twelve columns">
-			<h2>GIN-ICHI.co.jp prototype</h2>
-			<p>This is version 3.2.3.</p>
-			<hr />
-		</div>
-	</div>
+    <div class="row">
+            <div class="nine columns">
+                <div class="panel">
+                this is a slider area.
+                </div>
+            </div>
+            
+            <div class="three columns">
+                <div class="panel">
+                this area is a news release.
+                </div>
+            </div>
+    </div>
+
+
+    <div class="row">
+        <div class="twelve columns">
+        <h3>サービス</h3>
+            <div class="row">
+                <div class="six columns">
+                    <div class="panel">
+                    this is a service area.
+                    </div>
+                </div>
+                <div class="six columns">
+                    <div class="panel">
+                    this is a service area.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="twelve columns">
+        <h3>トピック</h3>
+            <div class="row">
+                <div class="three columns">
+                    <div class="panel">
+                    this is a topic area.
+                    </div>
+                </div>
+                <div class="three columns">
+                    <div class="panel">
+                    this is a topic area.
+                    </div>
+                </div>
+                <div class="three columns">
+                    <div class="panel">
+                    this is a topic area.
+                    </div>
+                </div>
+                <div class="three columns">
+                    <div class="panel">
+                    this is a topic area.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="twelve columns">
+        <h3>お問い合わせ</h3>
+            <div class="panel">
+            お問い合わせエリア
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+            <div class="three columns">
+            <h3>カタログ</h3>
+                <div class="panel">
+                this is a slider area.
+                </div>
+            </div>
+            
+            <div class="nine columns">
+            <h3>Facebook</h3>
+                <div class="panel">
+                this area is a news release.
+                </div>
+            </div>
+    </div>
 
 	<div class="row">
 		<div class="eight columns">
-			<h3>The Grid</h3>
-
-			<!-- Grid Example -->
-			<div class="row">
-				<div class="twelve columns">
-					<div class="panel">
-						<p>This is a twelve column section in a row. Each of these includes a div.panel element so you can see where the columns are - it's not required at all for the grid.</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="six columns">
-					<div class="panel">
-						<p>Six columns</p>
-					</div>
-				</div>
-				<div class="six columns">
-					<div class="panel">
-						<p>Six columns</p>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="four columns">
-					<div class="panel">
-						<p>Four columns</p>
-					</div>
-				</div>
-				<div class="four columns">
-					<div class="panel">
-						<p>Four columns</p>
-					</div>
-				</div>
-				<div class="four columns">
-					<div class="panel">
-						<p>Four columns</p>
-					</div>
-				</div>
-			</div>
 
 			<h3>Tabs</h3>
 			<dl class="tabs">

@@ -21,3 +21,10 @@
 	<?php wp_head(); ?>
 </head>
 <body <?php body_class(); ?>>
+
+	<div class="row">
+		<div class="twelve columns">
+			<h2>GIN-ICHI</h2>
+			<hr />
+		</div>
+	</div>

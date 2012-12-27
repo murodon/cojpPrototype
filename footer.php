@@ -1,3 +1,40 @@
+    <div class="row">
+        <div class="twelve columns">
+        <h3>most famous brand</h3>
+            <div class="row">
+                <div class="three columns">
+                    <div class="panel">
+                    this is a brand1 area.
+                    </div>
+                </div>
+                <div class="three columns">
+                    <div class="panel">
+                    this is a brand2 area.
+                    </div>
+                </div>
+                <div class="three columns">
+                    <div class="panel">
+                    this is a brand3 area.
+                    </div>
+                </div>
+                <div class="three columns">
+                    <div class="panel">
+                    this is a brand4 area.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="twelve columns">
+        <h3>お問い合わせ</h3>
+            <div class="panel callout radius">
+            お問い合わせエリア
+            </div>
+        </div>
+    </div>
+
 	<!-- Included JS Files (Uncompressed) -->
 	<script src="<?php echo get_template_directory_uri(); ?>/javascripts/foundation/jquery.js"></script>
 	
